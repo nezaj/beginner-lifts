@@ -39,7 +39,7 @@ I also think morning workouts are preferable vs evening. Sometimes plans come
 up after work and you have to deal with them. I think this is much less likely
 in the morning. Furthermore, when you lift first thing in the morning, you've
 already accomplished something at the start of the day. This is a great feeling.
-As a bonus, you will enjoy endorphins for the rest of the day. It can be tough
+As a bonus you will enjoy endorphins for the rest of the day. It can be tough
 establishing the morning workout habit at first, but it will be worth it!
 
 ### Workouts
@@ -57,7 +57,7 @@ programming. However, as a newbie, the above points should suffice.
 
 Also, regarding stretching, you should always make time for this.
 Getting in the habit of stretching and warming up before lifting will help
-prevent injuries further down the line. An injury can seriously, set you back.
+prevent injuries further down the line. An injury can seriously set you back.
 It's important to establish good habits early on in your lifting career, as
 doing so may be annoying/harder later.
 
@@ -71,8 +71,8 @@ doing so may be annoying/harder later.
 ### Workout B
 * Light leg strech
 * (Legs) Back Squats: 3 sets x 5 reps
-* (Shoulders) Dumbell Overhead Press: 3 sets
 * (Back) Pull-ups: 3 sets
+* (Shoulders) Dumbell Overhead Press: 3 sets
 * (Abs) Leg-Lifts: 4 sets
 
 ### Squat Progression
