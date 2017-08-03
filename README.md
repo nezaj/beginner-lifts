@@ -13,9 +13,9 @@ to continue reading below.
 * [Workout B](#workout-b)
 * [Squat Progression](#squat-progression)
 * [Tabata Push-ups Progression](#tabata-push-ups-progression)
-* [Dumbell Overhead Press Progression](#dumbell-overhead-press-progression)
-* [Crazy-Curls/Dips Progression](#crazy-curlsdips-progression)
 * [Pull-ups Progression](#pull-ups-progression)
+* [Crazy-Curls/Dips Progression](#crazy-curlsdips-progression)
+* [Dumbell Overhead Press Progression](#dumbell-overhead-press-progression)
 * [Leg-Lifts Progression](#leg-lifts-progression)
 * [Final Remarks](#final-remarks)
 
@@ -104,38 +104,6 @@ doing so may be annoying/harder later.
 * If completed all rounds, increase one more rep per round for next workout
 * Once you hit 20 reps per round, look into more advanced programming
 
-### Dumbell Overhead Press Progression
-* Breathe out going up, breathe in going down
-* Start with 20lbs in each hand
-* First workout do 3 sets of 6
-* Next workout do 6/7/6, then 7/7/7, 7/8/7, 8/8/8, 8/9/8, 9/9/9, 9/10/9, 10/10/10
-* Increase weight by 5lbs once you can do 3 sets of 10, Start cycle at 6/6/6
-* If you fail to do 3 sets, repeat next workout
-* If you fail 3 workouts in a row, deload 5lbs, continue at same reps as before
-  (i.e. if failed at 35lbs 8/8/8, deload to 30lbs 8/8/8)
-* Once you hit 135lbs combined, look into more advanced programming
-
-### Crazy-Curls/Dips Progression
-* Superset these, do curls first and then right away do dips
-* Minimum 2 minute rest between supersets (so curls+dips and then rest)
-* Crazy-Curls:
-    * Start with 30lbs (EZ curl bar: 20lb, 5lbs each side)
-    * 3 parts to each set
-    * First, bottom to half-way up, breathe out going up, breathe-in going down
-    * Second, top to half-way down, breathe out going down, breathe-in going up
-    * Third, bottom to top, breathe out going up, breathe in going down
-    * First workout lifting at a certain weight do 3 sets of 6 for each part
-    * Second time do 6/7/6
-    * Third time do 7/7/7
-    * Repeat cycle, 7/8/7 -> 8/8/8 -> 8/9/8 -> 9/9/9 -> 9/10/9 -> 10/10/10
-    * Once you do 3 sets of 10, increase weight by 5lbs. Start cycle at 6/6/6
-    * Once you can do 3 sets of 100, look into more advanced programming
-* Dips:
-    * Breathe in going down, breathe out going up
-    * Start with 3 sets of 10
-    * Do this thrice, then increase to three sets of 11
-    * Work your way up to 3 sets of 30, look into more advanced programming
-
 ### Pull-ups Progression
 * Breathe out going up, breathe in going down
 * Minimum 2 minutes between sets
@@ -152,6 +120,38 @@ doing so may be annoying/harder later.
 * Repeat prescription next workout if you fail
 * If you fail 3 workouts in a row, deload by 3 reps, work your way back up
 * Once you hit 30 reps per set, look into more advanced programming
+
+### Crazy-Curls/Dips Progression
+* Superset these, do curls first and then right away do dips
+* Minimum 2 minute rest between supersets (so curls+dips and then rest)
+* Crazy-Curls:
+    * Start with 30lbs (EZ curl bar: 20lb, 5lbs each side)
+    * 3 parts to each set
+    * First, bottom to half-way up, breathe out going up, breathe-in going down
+    * Second, top to half-way down, breathe out going down, breathe-in going up
+    * Third, bottom to top, breathe out going up, breathe in going down
+    * First workout lifting at a certain weight do 3 sets of 6 for each part
+    * Second workout do 6/7/6
+    * Third workout do 7/7/7
+    * Repeat cycle, 7/8/7 -> 8/8/8 -> 8/9/8 -> 9/9/9 -> 9/10/9 -> 10/10/10
+    * Once you do a workout of 3 sets of 10, increase weight by 5lbs. Start cycle at 6/6/6
+    * Once you can do 3x10 of 100lbs, look into more advanced programming
+* Dips:
+    * Breathe in going down, breathe out going up
+    * Start with 3 sets of 10
+    * Do this thrice, then increase to three sets of 11
+    * Work your way up to 3 sets of 30, look into more advanced programming
+
+### Dumbell Overhead Press Progression
+* Breathe out going up, breathe in going down
+* Start with 20lbs in each hand
+* First workout do 3 sets of 6
+* Next workout do 6/7/6, then 7/7/7, 7/8/7, 8/8/8, 8/9/8, 9/9/9, 9/10/9, 10/10/10
+* Increase weight by 5lbs once you can do 3 sets of 10, Start cycle at 6/6/6
+* If you fail to do 3 sets, repeat next workout
+* If you fail 3 workouts in a row, deload 5lbs, continue at same reps as before
+  (i.e. if failed at 35lbs 8/8/8, deload to 30lbs 8/8/8)
+* Once you hit 135lbs combined, look into more advanced programming
 
 ### Leg Lifts Progression
 * Breathe out going up, breathe in going down
