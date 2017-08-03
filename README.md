@@ -1,4 +1,4 @@
-# Lift Progression
+# Beginner Lifts
 This is a training program for a beginner in lifting. This is based on my
 personal experience and things I've read. I've also chosen movements that
 are suitable to equipment one may find in an "apartment" or "hotel" gym. If you
