@@ -7,17 +7,17 @@ looking at program like Starting Strength or Stronglifts 5x5. However, if you do
 have access to this kind of equipment or want to follow something else feel free
 to continue reading below.
 
-* [Schedule][#schedule]
-* [Workouts][#workouts]
-* [Workout A][#workout-a]
-* [Workout B][#workout-b]
-* [Squat Progression][#squat-progression]
-* [Tabata Push-ups Progression][#tabata-push-ups-progression]
-* [Dumbell Overhead Press Progression][#dumbell-overhead-press-progression]
-* [Crazy-Curls/Dips Progression][#crazy-curls/dips-progression]
-* [Pull-ups Progression][#pull-ups-progression]
-* [Leg-Lifts Progression][#leg-lifts-progression]
-* [Final Remarks][#final-remarks]
+* [Schedule](#schedule)
+* [Workouts](#workouts)
+* [Workout A](#workout-a)
+* [Workout B](#workout-b)
+* [Squat Progression](#squat-progression)
+* [Tabata Push-ups Progression](#tabata-push-ups-progression)
+* [Dumbell Overhead Press Progression](#dumbell-overhead-press-progression)
+* [Crazy-Curls/Dips Progression](#crazy-curls/dips-progression)
+* [Pull-ups Progression](#pull-ups-progression)
+* [Leg-Lifts Progression](#leg-lifts-progression)
+* [Final Remarks](#final-remarks)
 
 ### Schedule
 * Lift 3x a week
