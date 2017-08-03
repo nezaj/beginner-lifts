@@ -14,7 +14,7 @@ to continue reading below.
 * [Squat Progression](#squat-progression)
 * [Tabata Push-ups Progression](#tabata-push-ups-progression)
 * [Dumbell Overhead Press Progression](#dumbell-overhead-press-progression)
-* [Crazy-Curls/Dips Progression](#crazy-curls/dips-progression)
+* [Crazy-Curls/Dips Progression](#crazy-curlsdips-progression)
 * [Pull-ups Progression](#pull-ups-progression)
 * [Leg-Lifts Progression](#leg-lifts-progression)
 * [Final Remarks](#final-remarks)
